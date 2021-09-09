@@ -12,7 +12,7 @@ Read note -> Requires user to enter the title of the note they want to read and 
 ## How to run
 
 - For add: 
-  - Run ` node app add --title="<Your Title>" --body="<Your Note Body" `
+  - Run ` node app add --title="<Your Title>" --body="<Your Note Body>" `
 - For remove: 
   - Run ` node app remove --title="<Note Titlte To Remove>" `
 - For list: 
